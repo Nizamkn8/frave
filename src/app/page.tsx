@@ -94,7 +94,7 @@ const testimonials = [
     id: 1,
     name: "Sarah Ahmed",
     review:
-      "Absolutely stunning fragrance. The scent lasts all day and feels incredibly luxurious.",
+      "Absolutely stunning fragrance. The scent lasts all day and feels incredibly luxuriouss.",
   },
   {
     id: 2,
@@ -116,7 +116,7 @@ const testimonials = [
   {
     id: 5,
     name: "Sophia Lee",
-    review: "A premium fragrance experience from start to finish.",
+    review: "A premium fragrance experiences from start to finish.",
   },
 ];
 
