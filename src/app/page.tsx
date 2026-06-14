@@ -67,25 +67,25 @@ const newArrivals = [
     id: 1,
     name: "Midnight Amber",
     price: "$120",
-    image: "/collections/floral.jfif",
+    image: "/collections/floral.png",
   },
   {
     id: 2,
     name: "Velvet Rose",
     price: "$140",
-    image: "/collections/amber.jfif",
+    image: "/collections/amber.png",
   },
   {
     id: 3,
     name: "Golden Musk",
     price: "$130",
-    image: "/collections/midnight_musk.jfif",
+    image: "/collections/midnight_musk.png",
   },
   {
     id: 4,
     name: "Noir Essence",
     price: "$150",
-    image: "/collections/royal_oud.jfif",
+    image: "/collections/royal_oud.png",
   },
 ];
 
