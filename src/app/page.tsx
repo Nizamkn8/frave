@@ -12,25 +12,25 @@ const collections = [
   {
     id: 1,
     title: "Royal Oud",
-    image: "/collections/royal_oud.jfif",
+    image: "/collections/royal_oud.png",
     description: "Rich oud blended with amber and oriental spices.",
   },
   {
     id: 2,
     title: "Amber Gold",
-    image: "/collections/amber.jfif",
+    image: "/collections/amber.png",
     description: "Warm amber notes crafted for timeless elegance.",
   },
   {
     id: 3,
     title: "Floral Essence",
-    image: "/collections/floral.jfif",
+    image: "/collections/floral.png",
     description: "A delicate harmony of roses and white flowers.",
   },
   {
     id: 4,
     title: "Midnight Musk",
-    image: "/collections/midnight_musk.jfif",
+    image: "/collections/midnight_musk.png",
     description: "Deep musk accords for unforgettable evenings.",
   },
 ];
@@ -39,25 +39,25 @@ const bestSellers = [
   {
     id: 1,
     name: "Royal Oud",
-    image: "/products/royal_out_b.jfif",
+    image: "/products/royal_out_b.png",
     price: "₹4,999",
   },
   {
     id: 2,
     name: "Amber Gold",
-    image: "/products/amber_b.jfif",
+    image: "/products/amber_b.png",
     price: "₹3,999",
   },
   {
     id: 3,
     name: "Floral Essence",
-    image: "/products/flora_b.jfif",
+    image: "/products/flora_b.png",
     price: "₹3,499",
   },
   {
     id: 4,
     name: "Midnight Musk",
-    image: "/products/musk_b.jfif",
+    image: "/products/musk_b.png",
     price: "₹4,499",
   },
 ];
